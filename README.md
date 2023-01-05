@@ -9,7 +9,7 @@
         <img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api?username=claudgoeswild&show_icons=true&theme=tokyonight"/>
         <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudgoeswild&hide=TeX&layout=compact"/>
         <p align="justify">
-            I am a undergrad student at <a href="https://www.international.unesp.br/"target="_blank">Unesp - São Paulo State University</a> majoring in Computer Science. I'm a driven and hardworking person, good at communication skills, teamwork and problem solving. I feel especially comfortable when working in ambients where there's lots of feedback and engagement from the team. I'm very responsible and have a good sense of humour. I also have experience living abroad and adapting to new cultures.
+            I am a undergrad student at <a href="https://www.international.unesp.br/"target="_blank">Unesp - São Paulo State University</a> majoring in Computer Science. I'm a driven and hardworking person, good at communication skills, teamwork and problem solving. I feel especially comfortable when working in environments where there's lots of feedback and engagement from the team. I'm very responsible and have a good sense of humour. I also have experience living abroad and adapting to new cultures.
         </p> 
     </section>
     <section>
